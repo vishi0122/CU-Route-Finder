@@ -1,5 +1,5 @@
 # CU Campus Route Finder
-### DAA + Java Project | Chandigarh University
+### DSA + Java Project | Chandigarh University
 
 ---
 
